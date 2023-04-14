@@ -1,4 +1,4 @@
-h1 align="center"> Trabalho Portugol </h1>
+<h1 align="center"> Trabalho Portugol </h1>
 
 <p> Estudo da lógica de programação </p>
 
